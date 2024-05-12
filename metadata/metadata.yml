@@ -1,0 +1,20 @@
+metadata_version: 1
+name: Deep Learning of Causal Structures in High Dimensions under Data Limitations
+description: This capsule contains the official PyTorch implementation of the paper
+  "Deep Learning of Causal Structures in High Dimensions". The proposed method DDCL
+  considers a version of the causal structure learning problem in which the desired
+  output consists of binary indicators of causal relationships between observed variables.
+  This capsule provides the architecture and code to run tests.
+authors:
+- name: Kai Lagemann
+  affiliations:
+  - name: Statistics and Machine Learning, DZNE
+- name: Christian Lagemann
+  affiliations:
+  - name: Institute of Aerodynamics, RWTH Aachen University
+- name: Bernd Taschler
+  affiliations:
+  - name: Wellcome Centre for Integrative Neuroimaging, University of  Oxford
+- name: Sach Mukherjee
+  affiliations:
+  - name: Statistics and Machine Learning, DZNE  and  University of Cambridge

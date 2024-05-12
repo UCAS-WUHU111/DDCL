@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e
+
+pip install --extra-index-url https://developer.download.nvidia.com/compute/redist --upgrade nvidia-dali-cuda110
+pip install dgl-cu113 dglgo -f https://data.dgl.ai/wheels/repo.html
